@@ -12,7 +12,8 @@ import bs4
 import requests
 from bs4 import BeautifulSoup
 
-url = 'http://zndb.jcut.edu.cn/go?openid=og8hFxLhUhJ6GnN1I-CUnA1HnEko'
+# 请自行对微信抓包获取
+url = 'http://zndb.jcut.edu.cn/go?openid=xxxxxxxxxxxxxxxxxxxxxxx'
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 "
